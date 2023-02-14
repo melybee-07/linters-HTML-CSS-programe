@@ -3,3 +3,6 @@ npx stylelint "**/*.{css,scss}" --fix
 
 html
 npx hint .
+
+js
+npx eslint . --fix
