@@ -1,0 +1,5 @@
+css
+npx stylelint "**/*.{css,scss}" --fix
+
+html
+npx hint .
