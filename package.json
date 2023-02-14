@@ -1,0 +1,23 @@
+{
+  "name": "microverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melybee-07/linters-HTML-CSS-programe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melybee-07/linters-HTML-CSS-programe/issues"
+  },
+  "homepage": "https://github.com/melybee-07/linters-HTML-CSS-programe#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
